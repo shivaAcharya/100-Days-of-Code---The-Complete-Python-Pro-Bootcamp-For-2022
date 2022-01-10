@@ -1,0 +1,1 @@
+Functions in python encapsulates data and associated procedures on them.
