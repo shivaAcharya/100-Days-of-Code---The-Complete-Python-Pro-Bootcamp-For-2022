@@ -1,0 +1,5 @@
+1. Be a computer.
+2. Read out loud your code.
+3. Use print statement
+4. Take breaks
+5. Use debugger or code visualizer tools
